@@ -7,4 +7,4 @@ text = "Delhi is the capital of India"
 vector = embeddings.embed_query(text)
 
 
-print(str(vectorgit ))
+print(str(vector ))

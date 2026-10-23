@@ -10,3 +10,4 @@ result  = model.embed_documents(documents)
 
 
 print(str(result))
+# model
